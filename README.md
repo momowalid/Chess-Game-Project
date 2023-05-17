@@ -16,11 +16,12 @@ Description: Mohammed Salah made significant contributions in the early stages o
 Contribution: Timer functionality implementation, README documentation writing.
 Description: Mohammed Walid implemented the timer functionality, managing time limits for each player's turn. He also wrote a detailed README documentation file to provide comprehensive information about the project.
 ### UML Diagram
-![uml diagram](C:\Users\waLID\Desktop\61iYYRY4nNL._AC_SX679_.jpg)
+
 
 ### Gannt Chart
+![Screenshot 2023-05-17 183513](https://github.com/chess2026/Changed-Code-OOP/assets/127145133/4deb6612-dd00-4bc8-9291-e260cf978628)
+
 
 ### Log in Page
 
 ### Legal moves for pieces
-
