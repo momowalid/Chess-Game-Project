@@ -15,14 +15,54 @@ Description: Mohammed Salah made significant contributions in the early stages o
 ##### 5. Mohamed Walid:  
 Contribution: Timer functionality implementation, README documentation writing.
 Description: Mohammed Walid implemented the timer functionality, managing time limits for each player's turn. He also wrote a detailed README documentation file to provide comprehensive information about the project.
-### UML Diagram
+## UML Diagram
+![b5f2b626-647d-4a55-bb16-11160401e4d6](https://github.com/momowalid/Chess-Game-Project/assets/127145133/59bcb678-670a-44ca-83dd-3c933da3a99b)
 
 
-### Gannt Chart
-![Screenshot 2023-05-17 183513](https://github.com/chess2026/Changed-Code-OOP/assets/127145133/4deb6612-dd00-4bc8-9291-e260cf978628)
-
-
+## Gannt Chart
+![Screenshot 2023-05-17 183513](https://github.com/momowalid/Chess-Game-Project/assets/127145133/c0598f0f-b9cf-4678-a6f0-1529d53909ee)
 ### Log in Page
-![Screenshot 2023-05-17 183513](https://github.com/momowalid/for-readme/assets/127145133/81a34514-fa27-4c00-9817-e8b1d2a899ce)
+##### 1
+![7bd2052c-2036-4fa7-a037-df2046b3246a](https://github.com/momowalid/Chess-Game-Project/assets/127145133/9b1c021f-b88e-4c79-853e-da0b72209719)
+##### 2
+![59336c19-3b54-4260-a874-8e09c2f22612](https://github.com/momowalid/Chess-Game-Project/assets/127145133/75229265-c107-479a-b984-f5d9c317f083)
+##### 3
+![54ba81eb-09dd-43fd-8548-a28e74e4d358](https://github.com/momowalid/Chess-Game-Project/assets/127145133/4b5fd4ae-5938-48b7-a9f8-d3b8b91b5fa2)
+##### 4
+![7bd2052c-2036-4fa7-a037-df2046b3246a](https://github.com/momowalid/Chess-Game-Project/assets/127145133/3dceeff2-faf3-4c98-b844-d7020ad8a2ef)
+##### 5
+![1f5c2659-d435-4610-b216-f6e73ef982fa](https://github.com/momowalid/Chess-Game-Project/assets/127145133/7ba0951b-8ed9-4455-993f-390efe7109de)
+##### 6
+![38097d03-7058-4559-814d-d7f6273c16c6](https://github.com/momowalid/Chess-Game-Project/assets/127145133/1f2d2586-66a5-4d22-a2c4-42d6db5fac2e)
+##### 7
+![da5b1687-e4b4-4537-aea0-58b510ddd162](https://github.com/momowalid/Chess-Game-Project/assets/127145133/33c2ffb0-ba9e-4fa1-a236-b68e85bacc5b)
+##### 8
+![104adeba-9492-450d-a20a-092da3c827bc](https://github.com/momowalid/Chess-Game-Project/assets/127145133/b16e0e04-3e70-4e1c-8730-b3c3d8771373)
 
-### Legal moves for pieces
+
+### Pawn First Move
+![pawn (1)](https://github.com/momowalid/Chess-Game-Project/assets/127145133/350a793f-42a9-4626-aeaa-8f619ecbbac7)
+
+### Capture Pawn 
+![Capture pawn (1)](https://github.com/momowalid/Chess-Game-Project/assets/127145133/b04f1cbc-595f-4d3c-b6d6-37e02fdecb09)
+
+## Checkmate On White King
+![099b911f-646a-4009-8b98-d8e96d7fae06](https://github.com/momowalid/Chess-Game-Project/assets/127145133/85a85c7f-59b4-4be2-ba5a-3cbe1b4c32a3)
+
+## Castling 
+### 1
+![castling1](https://github.com/momowalid/Chess-Game-Project/assets/127145133/4b7526c8-a9d8-4632-b143-e35913f46c26)
+### 2
+![castling2](https://github.com/momowalid/Chess-Game-Project/assets/127145133/630e2e79-caa8-4789-9d58-7c00172394c8)
+
+## Time End 
+![3190b4e3-ddf0-433c-9069-565f411d19e2](https://github.com/momowalid/Chess-Game-Project/assets/127145133/cc5cacf3-0497-4dad-bc33-80e239ea0cb1)
+
+## Stalemate
+![a4a296c4-8f24-4822-aa62-6b6516be8d4d](https://github.com/momowalid/Chess-Game-Project/assets/127145133/49c5b4fd-28eb-45f7-8089-807811ca3cbb)
+
+
+
+
+
+
