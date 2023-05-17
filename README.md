@@ -16,7 +16,7 @@ Description: Mohammed Salah made significant contributions in the early stages o
 Contribution: Timer functionality implementation, README documentation writing.
 Description: Mohammed Walid implemented the timer functionality, managing time limits for each player's turn. He also wrote a detailed README documentation file to provide comprehensive information about the project.
 ### UML Diagram
-![uml diagram](https://imgur.com/2JzsQpw)
+![uml diagram](C:\Users\waLID\Desktop\61iYYRY4nNL._AC_SX679_.jpg)
 
 ### Gannt Chart
 
